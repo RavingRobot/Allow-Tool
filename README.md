@@ -1,6 +1,6 @@
 # Allow-Tool
-Форк мода Allow Tool. Добавлены два приказа на срезание травы и рубку деревьев (включая ростки). Распаковать архив из [релиза](https://github.com/RavingRobot/Allow-Tool/releases "релиза") в "RimWorld\Mods\Allow Tools" с заменой файлов.
+Р¤РѕСЂРє РјРѕРґР° Allow Tool. Р”РѕР±Р°РІР»РµРЅС‹ РґРІР° РїСЂРёРєР°Р·Р° РЅР° СЃСЂРµР·Р°РЅРёРµ С‚СЂР°РІС‹ Рё СЂСѓР±РєСѓ РґРµСЂРµРІСЊРµРІ (РІРєР»СЋС‡Р°СЏ СЂРѕСЃС‚РєРё). Р Р°СЃРїР°РєРѕРІР°С‚СЊ Р°СЂС…РёРІ РёР· [СЂРµР»РёР·Р°](https://github.com/RavingRobot/Allow-Tool/releases "СЂРµР»РёР·Р°") РІ "RimWorld\Mods\Allow Tools" СЃ Р·Р°РјРµРЅРѕР№ С„Р°Р№Р»РѕРІ.
 
-Пользовать на свой страх и риск, ответственности за ваши сейвы не несу (исходный код был получен с помощью ILSpy с последующим исправлением ошибок декомпиляции).
+РџРѕР»СЊР·РѕРІР°С‚СЊ РЅР° СЃРІРѕР№ СЃС‚СЂР°С… Рё СЂРёСЃРє, РѕС‚РІРµС‚СЃС‚РІРµРЅРЅРѕСЃС‚Рё Р·Р° РІР°С€Рё СЃРµР№РІС‹ РЅРµ РЅРµСЃСѓ (РёСЃС…РѕРґРЅС‹Р№ РєРѕРґ Р±С‹Р» РїРѕР»СѓС‡РµРЅ СЃ РїРѕРјРѕС‰СЊСЋ ILSpy СЃ РїРѕСЃР»РµРґСѓСЋС‰РёРј РёСЃРїСЂР°РІР»РµРЅРёРµРј РѕС€РёР±РѕРє РґРµРєРѕРјРїРёР»СЏС†РёРё).
 
 English: A fork of the Allow Tool mod. Added two orders for cutting grass and chopping trees (including saplings). Unzip the archive from the [release](https://github.com/RavingRobot/Allow-Tool/releases "release") to "RimWorld\Mods\Allow Tools" and replace the files. Use at your own risk. I am not responsible for your saves (the source code was obtained using ILSpy with subsequent decompilation errors corrected).
