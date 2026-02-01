@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<AllowTool.ThingDesignatorDef>
+        <defName>CutGrassDesignator</defName>
+		<designatorClass>AllowTool.Designator_CutGrass</designatorClass>
+        <label>Cut grass only</label>
+		<description>Cut all grass in the selected area. Does not affect trees or crops.</description>
+		<iconTex>CutPlants</iconTex>
+		<dragHighlightTex>harvestGrownHighlight</dragHighlightTex>
+		<soundSucceeded>ThingSelected</soundSucceeded>
+	</AllowTool.ThingDesignatorDef>
+	
+	<AllowTool.ThingDesignatorDef>
+        <defName>ChopAllTreesDesignator</defName>
+		<designatorClass>AllowTool.Designator_ChopAllTrees</designatorClass>
+        <label>Chop all trees</label>
+		<description>Chop all trees and saplings. Excludes special trees like Anima trees.</description>
+		<iconTex>ChopWood</iconTex>
+		<dragHighlightTex>harvestGrownHighlight</dragHighlightTex>
+		<soundSucceeded>ThingSelected</soundSucceeded>
+	</AllowTool.ThingDesignatorDef>
+	
+</Defs>

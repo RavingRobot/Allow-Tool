@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CutGrassDesignator.label>Срезать только траву</CutGrassDesignator.label>
+	<CutGrassDesignator.description>Срезать всю траву в выделенной области. Не затрагивает деревья и урожай.</CutGrassDesignator.description>
+	
+	<ChopAllTreesDesignator.label>Срубить все деревья</ChopAllTreesDesignator.label>
+	<ChopAllTreesDesignator.description>Срубить всех деревья и ростки. Исключает особые деревья, такие как Древо души.</ChopAllTreesDesignator.description>
+
+</LanguageData>
